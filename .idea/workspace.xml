@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7af305a4-0f23-4f35-8019-3ebd110d8bb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRL1xoJwUBx4SkaWV7sUEsD5S9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af305a4-0f23-4f35-8019-3ebd110d8bb5" name="Default Changelist" comment="" />
+      <created>1586693248338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586693248338</updated>
+      <workItem from="1586693252671" duration="4940000" />
+      <workItem from="1586699303340" duration="411000" />
+      <workItem from="1586699806887" duration="2521000" />
+      <workItem from="1586763258322" duration="220000" />
+      <workItem from="1586792941990" duration="440000" />
+      <workItem from="1586842398930" duration="799000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加忽略文件">
+      <created>1586843098298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586843098298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加忽略文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1883" y="-16" key="CommitChangelistDialog2" timestamp="1586843097982">
+      <screen x="1440" y="-91" width="1920" height="1080" />
+    </state>
+    <state x="1883" y="-16" key="CommitChangelistDialog2/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586843097982" />
+    <state x="1932" y="90" key="FileChooserDialogImpl" timestamp="1586699491827">
+      <screen x="1440" y="-68" width="1920" height="1057" />
+    </state>
+    <state x="1932" y="90" key="FileChooserDialogImpl/1440.-68.1920.1057/51.23.1389.877@1440.-68.1920.1057" timestamp="1586699491827" />
+    <state x="1837" y="347" key="Github.ShareDialog" timestamp="1586702076302">
+      <screen x="1440" y="-68" width="1920" height="1057" />
+    </state>
+    <state x="1837" y="347" key="Github.ShareDialog/1440.-68.1920.1057/51.23.1389.877@1440.-68.1920.1057" timestamp="1586702076302" />
+    <state x="1580" y="-67" key="SettingsEditor" timestamp="1586699497842">
+      <screen x="1440" y="-68" width="1920" height="1057" />
+    </state>
+    <state x="1580" y="-67" key="SettingsEditor/1440.-68.1920.1057/51.23.1389.877@1440.-68.1920.1057" timestamp="1586699497842" />
+    <state x="105" y="1" key="SettingsEditor/1440.-91.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1586695466206" />
+    <state x="1966" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1586792942310">
+      <screen x="1440" y="-91" width="1920" height="1080" />
+    </state>
+    <state x="1966" y="245" key="com.intellij.ide.util.TipDialog/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586792942310" />
+    <state x="2096" y="309" width="881" height="612" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586699890533">
+      <screen x="1440" y="-91" width="1920" height="1080" />
+    </state>
+    <state x="2096" y="309" width="881" height="612" key="org.intellij.images.editor.actions.BackgroundImageDialog/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586699890533" />
+    <state x="1981" y="-43" width="838" height="1032" key="search.everywhere.popup" timestamp="1586699883229">
+      <screen x="1440" y="-91" width="1920" height="1080" />
+    </state>
+    <state x="1981" y="-43" width="838" height="1032" key="search.everywhere.popup/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586699883229" />
+    <state x="1865" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586699028307">
+      <screen x="1440" y="-68" width="1920" height="1057" />
+    </state>
+    <state x="1865" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1440.-68.1920.1057/51.23.1389.877@1440.-68.1920.1057" timestamp="1586699028307" />
+  </component>
+</project>
