@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7af305a4-0f23-4f35-8019-3ebd110d8bb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7af305a4-0f23-4f35-8019-3ebd110d8bb5" name="Default Changelist" comment="添加忽略文件">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1586699806887" duration="2521000" />
       <workItem from="1586763258322" duration="220000" />
       <workItem from="1586792941990" duration="440000" />
-      <workItem from="1586842398930" duration="799000" />
+      <workItem from="1586842398930" duration="1040000" />
     </task>
     <task id="LOCAL-00001" summary="添加忽略文件">
       <created>1586843098298</created>
@@ -97,6 +97,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -110,10 +135,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加忽略文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1883" y="-16" key="CommitChangelistDialog2" timestamp="1586843097982">
+    <state x="1883" y="-16" key="CommitChangelistDialog2" timestamp="1586843294604">
       <screen x="1440" y="-91" width="1920" height="1080" />
     </state>
-    <state x="1883" y="-16" key="CommitChangelistDialog2/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586843097982" />
+    <state x="1883" y="-16" key="CommitChangelistDialog2/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586843294604" />
     <state x="1932" y="90" key="FileChooserDialogImpl" timestamp="1586699491827">
       <screen x="1440" y="-68" width="1920" height="1057" />
     </state>
@@ -122,6 +147,10 @@
       <screen x="1440" y="-68" width="1920" height="1057" />
     </state>
     <state x="1837" y="347" key="Github.ShareDialog/1440.-68.1920.1057/51.23.1389.877@1440.-68.1920.1057" timestamp="1586702076302" />
+    <state x="2208" y="101" key="RollbackChangesDialog" timestamp="1586843310254">
+      <screen x="1440" y="-91" width="1920" height="1080" />
+    </state>
+    <state x="2208" y="101" key="RollbackChangesDialog/1440.-91.1920.1080/0.0.1440.900@1440.-91.1920.1080" timestamp="1586843310254" />
     <state x="1580" y="-67" key="SettingsEditor" timestamp="1586699497842">
       <screen x="1440" y="-68" width="1920" height="1057" />
     </state>
